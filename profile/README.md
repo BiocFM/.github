@@ -1,6 +1,6 @@
 # BiocFM: Facilitate Foundation Models in Bioconductor Workflows
 
-BiocFM is a lightweight resource of R packages that deplay foundation models and harmonize with [Bioconductor](https://www.bioconductor.org) workflows.
+BiocFM is a lightweight resource of R packages that deploy foundation models compatible with [Bioconductor](https://www.bioconductor.org) workflows.
 
 The collection of packages available in BiocFM use either of three following implementations of the torch framework:
 
