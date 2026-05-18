@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/BiocFM/.github/main/logo/full.png" alt="BiocFM logo" width="300"/>
-
 # BiocFM: Facilitate Foundation Models in Bioconductor Workflows
 
 **BiocFM is a lightweight resource for [Bioconductor](https://www.bioconductor.org) packages** that deploy foundation models for omics datasets.
